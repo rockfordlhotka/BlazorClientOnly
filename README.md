@@ -1,3 +1,5 @@
-# BlazorClientOnly
+# Using CSLA 5: Blazor and WebAssembly sample code
 
-Source is for the _Using CSLA: Blazor and WebAssembly_ book at https://store.lhotka.net
+This content has been moved to its new home at
+
+https://github.com/MarimerLLC/BlazorBook
